@@ -1,101 +1,123 @@
 # Hey, I'm Amirthaa!
 
-### Computer Science Student | AI/ML Enthusiast | Builder at Heart
+### I like turning "What if?" into "Let's build it."
 
-I'm the kind of person who doesn't want to stop at *"How does this work?"* — I want to build it, experiment with it, break things, fix them, and see what I can make out of it.
+I'm a Computer Science Engineering student at Amrita Vishwa Vidyapeetham, exploring the world of AI and Machine Learning through hands-on projects.
 
-I'm currently pursuing my B.Tech in Computer Science at Amrita Vishwa Vidyapeetham, and I'm exploring the world of AI and Machine Learning one project at a time. From teaching models to recognize brain tumors in MRI scans to building a system that can read emotions from speech, I enjoy turning ideas into working projects and learning something new along the way.
+I enjoy the entire process of building something — starting with an idea, experimenting with different approaches, figuring out why something isn't working, and finally getting it to work. Sometimes that means training a deep learning model, sometimes exploring a completely new technology, and sometimes building an application from scratch.
 
-I'm still growing, still experimenting, and definitely not done building.
+I'm not here just to learn how things work. **I want to understand them by building them.**
 
-## What I'm Exploring
+Currently, I'm especially interested in AI/ML, deep learning, and using technology to tackle problems that matter.
 
-- **Machine Learning:** Understanding patterns in data and turning them into useful predictions.
-- **Deep Learning:** Experimenting with neural networks, CNNs, LSTMs, and transfer learning.
-- **AI for Real-World Problems:** Exploring how AI can contribute to areas like healthcare, audio analysis, and personalized recommendations.
-- **Building Applications:** Taking models beyond notebooks and giving them an interface people can actually use.
+## What Gets Me Excited
+
+- **Experimenting:** Trying different models, comparing results, and discovering what actually works instead of assuming it will.
+- **Taking on challenges:** Learning unfamiliar tools and technologies, even when the first attempt doesn't go as planned.
+- **Solving problems:** Exploring how AI can be applied to areas like healthcare, speech analysis, and personalized recommendations.
+- **Building things:** Turning ideas into working projects rather than leaving them as concepts in a notebook.
 
 ## Things I've Built
 
+I like exploring different kinds of problems, so my projects aren't all the same. Here's a look at what I've been working on.
+
 ### Brain Tumor MRI Classification
-*Using deep learning to explore AI in medical imaging.*
+**Exploring how deep learning can support medical image analysis.**
 
-I experimented with multiple pretrained CNN architectures to classify brain MRI images into four categories: Glioma, Meningioma, No Tumor, and Pituitary. Comparing different models helped me explore how architecture choices and fine-tuning affect performance.
+I worked with six pretrained CNN architectures to classify brain MRI images into four categories: Glioma, Meningioma, No Tumor, and Pituitary. I experimented with transfer learning and fine-tuning to compare model performance.
 
-**A result I'm proud of:** Fine-tuned ResNet50 achieved 93.62% test accuracy.
+**A result I'm proud of:** Fine-tuned ResNet50 achieved **93.62% test accuracy**.
 
-[Explore the project notebook](https://colab.research.google.com/drive/1qFxpgLTu4bz8cSLwSFuZWypjjC6ZULvM?usp=sharing)
+Tech stack: Python, TensorFlow, Keras, CNNs, Google Colab
+
+[View the project notebook](https://colab.research.google.com/drive/1qFxpgLTu4bz8cSLwSFuZWypjjC6ZULvM?usp=sharing)
 
 ### Speech Emotion Recognition
-*Because there's more to speech than just words.*
+**What if a computer could pick up emotions from the way we speak?**
 
-This project explores whether a computer can recognize emotions from someone's voice. Using the RAVDESS dataset, I worked with audio features such as MFCCs and compared DNN, CNN, and LSTM models. I also built a Streamlit interface to explore audio, visualize signals, and display emotion predictions.
+That question inspired me to build a speech emotion recognition application using the RAVDESS dataset. I explored MFCC audio features and compared DNN, CNN, and LSTM models. I also built a Streamlit interface that lets users upload and play audio, explore waveforms and spectrograms, inspect MFCC visualizations, and view prediction scores.
 
-**What made it interesting:** Bringing audio processing, deep learning, visualization, and an interactive interface together in one project.
+This project brought together several things I enjoy: experimenting with models, working with a different kind of data, and turning a model into an interactive application.
 
-[Explore the repository](https://github.com/AmirthaaR/Speech-Emotion-Analyzer)
+Tech stack: Python, Librosa, TensorFlow/Keras, Streamlit
+
+[Explore the GitHub repository](https://github.com/AmirthaaR/Speech-Emotion-Analyzer)
 
 ### AI-Based Recommendation System
-*Making data useful for discovering relevant options.*
+**Making data useful for discovering relevant options.**
 
-I built a recommendation-system project using Python and data science libraries, exploring how data can be used to generate recommendations.
+I developed a recommendation-system project using Python and data science libraries. It gave me another opportunity to explore how data and machine learning techniques can be used to generate recommendations.
 
-[Explore the repository](https://github.com/AmirthaaR/AI-BASED-RECOMMENDATION-SYSTEM)
+Tech stack: Python, Pandas, NumPy, Scikit-learn
+
+[Explore the GitHub repository](https://github.com/AmirthaaR/AI-BASED-RECOMMENDATION-SYSTEM)
 
 ### EasyTripBooker
-*From machine learning to application development.*
+**Because building software is bigger than just AI.**
 
-Not everything I build has to involve a neural network. EasyTripBooker is a Java application with a graphical interface for transportation bookings, covering cabs, buses, trains, and flights. It gave me a chance to explore application logic and GUI development.
+EasyTripBooker is a Java-based travel booking application with a graphical interface for transportation options, including cabs, buses, trains, and flights.
 
-[Explore the repository](https://github.com/AmirthaaR/EasyTripBooker)
+I also enjoy working outside machine learning. Projects like this let me explore application logic, user interfaces, and a different side of software development.
 
-## My Tech Toolbox
+Tech stack: Java, Java Swing
 
-**Languages:** Python, Java, HTML, CSS, JavaScript
+[Explore the GitHub repository](https://github.com/AmirthaaR/EasyTripBooker)
 
-**AI/ML:** TensorFlow, Keras, Scikit-learn, CNNs, LSTMs, transfer learning
+## My Current Toolbox
 
-**Data and Audio:** NumPy, Pandas, Librosa, MFCC feature extraction
+| Area | Technologies |
+|---|---|
+| Programming | Python, Java, HTML, CSS, JavaScript |
+| Machine Learning | Scikit-learn, model training and evaluation |
+| Deep Learning | TensorFlow, Keras, CNNs, LSTMs, transfer learning |
+| Data Processing | NumPy, Pandas |
+| Audio Processing | Librosa, MFCC feature extraction |
+| Visualization and Apps | Matplotlib, Streamlit, Java Swing |
+| Development Tools | Google Colab, Git, GitHub |
 
-**Building and Visualizing:** Streamlit, Matplotlib, Java Swing
+I'm continuing to strengthen these skills through projects and practical experimentation. For me, learning a technology means more than adding its name to a list — I want to know where it fits and what I can create with it.
 
-**Tools:** Google Colab, Git, GitHub
-
-I'm always looking to get more hands-on with these tools instead of just collecting them on a skills list.
-
-## A Little About My Journey
+## A Few Things Beyond My Projects
 
 **Machine Learning Intern — CodeTech IT Solutions**  
 *November–December 2025*
 
-An opportunity to gain exposure to machine learning in an internship setting. I'm continuing to build on that experience through projects and independent learning.
+An opportunity to gain exposure to machine learning in an internship setting, alongside my continued practical learning through projects.
 
-**Computer Science Engineering — Amrita Vishwa Vidyapeetham**  
-*Expected graduation: 2028 | GPA: 8.3*
+**IEEE Student Branch — Executive Committee Member**  
+Amrita Vishwa Vidyapeetham
 
-**IEEE Student Branch — Executive Committee Member**
+I participate in student-branch activities and collaborate with fellow members on academic and technical initiatives.
 
-Being involved in the IEEE student branch gives me opportunities to participate in student activities and collaborate with other members.
+**Generative AI & LLM Bootcamp**  
+Amrita Vishwa Vidyapeetham
 
-**Generative AI & LLM Bootcamp — Amrita Vishwa Vidyapeetham**
+Exploring generative AI and large language models as part of my ongoing learning journey.
 
-Continuing to explore the evolving world of generative AI and large language models.
+**Research**
 
-## Beyond the Code
+I'm co-authoring a research paper titled *"AI-Enabled Digital Twin Framework for Cardiometabolic Disease Management: A Multi-Model Predictive Analytics Approach for Personalized Healthcare."* The work explores predictive analytics for personalized healthcare, and the publication process is ongoing.
 
-I'm interested in how AI can move from an idea or research paper into something useful in the real world. That curiosity is also reflected in a research paper I'm co-authoring on an AI-enabled digital twin framework for cardiometabolic disease management. The publication process is currently ongoing.
+## Where I'm Headed
 
-I enjoy exploring new ideas, learning by doing, and taking on projects that push me beyond what I already know. I don't expect to know everything — I'd rather stay curious, keep building, and get better with every project.
+I want to keep moving beyond what I already know — explore new ideas, build more meaningful AI/ML projects, and learn from people who approach problems differently.
+
+I'm particularly interested in opportunities where I can contribute, ask questions, experiment, and grow through real engineering work. I don't expect every experiment to succeed. I do expect to learn something from it.
+
+**I'm currently open to AI/ML internship opportunities, collaborative projects, and opportunities to turn ideas into useful applications.**
 
 ## Let's Connect
 
-I'm open to **AI/ML internship opportunities, collaborative projects, and conversations with people who enjoy building things as much as I do.**
+If you're working on something interesting, have an idea worth exploring, or are looking for someone who's eager to learn and build, I'd love to connect.
 
 - **Email:** ramirthaa236@gmail.com
-- **LinkedIn:** [Let's connect](https://www.linkedin.com/in/amirthaa-r-40006b329/)
-- **GitHub:** [Explore my work](https://github.com/AmirthaaR)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/amirthaa-r-40006b329/)
+- **GitHub:** [Explore my projects](https://github.com/AmirthaaR)
 - **Portfolio:** [Visit my website](https://amirthaar.github.io/AMIRTHAA-R/)
 
-_Curious mind. Hands-on learning. Always something new to build._
+---
+
+*Stay curious. Try things. Solve problems. Build something real.*
+
 
 *Curious mind. Hands-on learning. Always something new to build.*
